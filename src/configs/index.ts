@@ -24,10 +24,6 @@ export type SupportedImgSize = (typeof supportedImgSizes)[number];
 
 export const supportedLanguages = [
   {
-    label: '简体中文',
-    value: 'zh',
-  },
-  {
     label: 'English',
     value: 'en',
   },
