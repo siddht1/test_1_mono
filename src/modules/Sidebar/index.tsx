@@ -71,7 +71,7 @@ const Sidebar: FC<{
       <div className="p-4 mt-2 flex items-baseline justify-between">
         <span className="text-3xl text-gradient font-[800]">ChatGPT AI</span>
         <a
-          href="https://github.com/siddht1/test_1_mono"
+          href="https://test-1-mono.vercel.app/"
           target="_blank"
           rel="noreferrer"
         >

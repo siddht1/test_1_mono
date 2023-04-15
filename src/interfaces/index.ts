@@ -9,7 +9,7 @@ export interface Message {
 
 export type ConversationMode = 'text' | 'image';
 
-export type Lang =  'en';
+export type Lang = 'zh' | 'en';
 
 export interface Conversation {
   id: string;
