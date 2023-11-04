@@ -6,8 +6,8 @@
   "license": "MIT",
   "packageManager": "pnpm@7.29.3",
   "engines": {
-    "node": ">=16.12.0",
-    "pnpm": ">=7.29.0 <8"
+    "node": ">=18.6.0",
+    "pnpm": ">=8.10.2"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
