@@ -69,7 +69,7 @@ const Sidebar: FC<{
   return (
     <div className="flex flex-col h-full bg-white">
       <div className="p-4 mt-2 flex items-baseline justify-between">
-        <span className="text-3xl text-gradient font-[800]">ChatGPT AI</span>
+        <span className="text-3xl text-gradient font-[800]">KIVTECHS AI</span>
         <a
           href="https://test-1-mono.vercel.app/"
           target="_blank"
